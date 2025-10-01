@@ -58,7 +58,8 @@
 
 <img width="829" height="341" alt="imagen" src="https://github.com/user-attachments/assets/3901eae1-5077-4e08-923d-5a5ebf7cdabb" />
 
+- Reiniciamos el servicio de apache y comprobamos si funciona
 
-
+<img width="919" height="307" alt="imagen" src="https://github.com/user-attachments/assets/3c06484e-71b5-425d-9eed-6912c523c7b6" />
 
 
