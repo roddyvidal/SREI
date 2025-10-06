@@ -87,8 +87,35 @@
 
 <img width="667" height="183" alt="imagen" src="https://github.com/user-attachments/assets/a162099d-0e6d-42ae-8ce9-cc18cc527d8c" />
 
-- Cambiamos el propietario a nuestro usua
+- Salimos del directorio prueba y nos vamos al direcctroio prueba2 y cambiamos de propietario el directorio para que tengmaos permisos de escritura
 
+<img width="813" height="162" alt="imagen" src="https://github.com/user-attachments/assets/dfb3d8d6-46db-46d8-a9ec-4f7114998d41" />
+
+- Creamos el archivo index.html y creamos la seguda pagina.
+
+<img width="829" height="177" alt="imagen" src="https://github.com/user-attachments/assets/89b753d5-35b4-459a-b1af-29f1370e78ef" />
+
+- Le creamos virtualhost para entrar por su nombre. Entramos en el archivo de configracion de los virtualhosts.
+
+<img width="815" height="109" alt="imagen" src="https://github.com/user-attachments/assets/d33ce621-8b2f-4680-a24e-4d195656d680" />
+
+<img width="803" height="366" alt="imagen" src="https://github.com/user-attachments/assets/8c1e076d-4b63-4866-8b61-d189d4904f01" />
+
+- Reiniciamos apache2
+
+<img width="845" height="67" alt="imagen" src="https://github.com/user-attachments/assets/4a61a265-dfb5-44fa-9781-954bf5598e4a" />
+
+- Añadirmeos el dominio al etc hosts
+
+<img width="707" height="86" alt="imagen" src="https://github.com/user-attachments/assets/44aa300e-64af-4a09-b72d-b173995e073b" />
+
+<img width="807" height="171" alt="imagen" src="https://github.com/user-attachments/assets/2e2fb73f-3930-4552-ad3e-308b1b0332ce" />
+
+- Entramos al navegador y porbamos si funcionan las paginas.
+
+<img width="806" height="213" alt="imagen" src="https://github.com/user-attachments/assets/054eab8a-3f77-4248-acb3-1664f3b3ebec" />
+
+<img width="955" height="250" alt="imagen" src="https://github.com/user-attachments/assets/e7707bfa-bf3c-44e5-917d-c58c92dc804b" />
 
   
 
