@@ -50,6 +50,8 @@
 
 <img width="685" height="156" alt="imagen" src="https://github.com/user-attachments/assets/640c23bf-38ae-4385-abd4-0db36b1ab5ea" />
 
+---
+
 ## 4) Comprueba si se visualiza el pie de página en las páginas generadas por Apache (por ejemplo, en las páginas de error). Cambia el valor de la directiva y comprueba que funciona correctamente
 
 - Vamos al archivo que donde cambiamos "ServerTokens" y un poco mas abajo veremos ServerSignature para cambiar la informacion del servidor en caso de error en la página.
@@ -61,5 +63,33 @@
 - Reiniciamos el servicio de apache y comprobamos si funciona
 
 <img width="919" height="307" alt="imagen" src="https://github.com/user-attachments/assets/3c06484e-71b5-425d-9eed-6912c523c7b6" />
+
+---
+
+## 5) Crea un directorio “prueba” y otro directorio “prueba2”. Incluye un par de páginas en cada una de ellas.
+
+- Creamos los dos directorios de prueba dentro de /var/www
+
+<img width="808" height="194" alt="imagen" src="https://github.com/user-attachments/assets/2f67cf07-2208-401c-972a-56dd60bd9a43" />
+
+- Una vez creados tenemos que editar los archivos para crear una pagina simple.
+
+<img width="766" height="102" alt="imagen" src="https://github.com/user-attachments/assets/796a4728-8ed3-4f1d-83a4-ef418d9714ea" />
+
+<img width="842" height="141" alt="imagen" src="https://github.com/user-attachments/assets/9d8541fd-09df-49e8-a7fd-0eefe2b1c738" />
+
+- Cambiamos el prpietario del directorio para que tengamos permisos de esctritura.
+
+<img width="826" height="77" alt="imagen" src="https://github.com/user-attachments/assets/ab12f767-b7b2-4db6-8395-6e590d4c5f26" />
+
+
+- Dentro de index.html creamos la pagina que se mostrara.
+
+<img width="667" height="183" alt="imagen" src="https://github.com/user-attachments/assets/a162099d-0e6d-42ae-8ce9-cc18cc527d8c" />
+
+- Cambiamos el propietario a nuestro usua
+
+
+  
 
 
