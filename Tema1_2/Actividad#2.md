@@ -115,7 +115,19 @@
 
 <img width="806" height="213" alt="imagen" src="https://github.com/user-attachments/assets/054eab8a-3f77-4248-acb3-1664f3b3ebec" />
 
-<img width="955" height="250" alt="imagen" src="https://github.com/user-attachments/assets/e7707bfa-bf3c-44e5-917d-c58c92dc804b" />
+<img width="847" height="241" alt="imagen" src="https://github.com/user-attachments/assets/77f43ff7-c2b9-41ca-b2a7-a2e32f84b275" />
+
+---
+
+## 6) Redirecciona el contenido de la carpeta “prueba” hacia “prueba2”
+ 
+ - La opcion mas facil para redirigir es desde el VirtualHost. Entramos al archivos de configuracion.
+
+<img width="711" height="223" alt="imagen" src="https://github.com/user-attachments/assets/8c8b66f0-afef-4cc6-b5b2-980b07af1b5c" />
+
+
+
+
 
   
 
