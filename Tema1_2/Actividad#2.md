@@ -152,17 +152,10 @@
 
 <img width="816" height="578" alt="imagen" src="https://github.com/user-attachments/assets/af133d19-9d90-407c-87b9-450ac288591e" />
 
-<img width="809" height="121" alt="imagen" src="https://github.com/user-attachments/assets/00cd3bf6-3530-48fd-9b77-4b033d05366c" />
+- Entamos a la ruta y nos saldrá la pagina que hicimos de nuestro Usuario.
 
-<img width="816" height="585" alt="imagen" src="https://github.com/user-attachments/assets/01341fd4-1a13-4b40-8f0c-d61ae31b69da" />
+<img width="753" height="170" alt="imagen" src="https://github.com/user-attachments/assets/7d8241bb-296a-497c-8f75-dec6daa47f7a" />
 
-- Configuraremos userdir con esta ruta. Guardamos y reiniciamos apache
-
-<img width="823" height="118" alt="imagen" src="https://github.com/user-attachments/assets/d60f0ba4-6216-4b5e-99b8-10bed1326b0a" />
-
-<img width="661" height="309" alt="imagen" src="https://github.com/user-attachments/assets/3cb349c9-d018-4ff5-baaa-cea7c00b5259" />
-
-- Ahora en el htacces añadieremos la pagian.
 
 
 
