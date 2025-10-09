@@ -158,7 +158,7 @@
 
 ---
 
-## 8) Usa la directiva alias para redireccionar a una carpeta dentro del directorio de usuario.
+## 9) Usa la directiva alias para redireccionar a una carpeta dentro del directorio de usuario.
 
 
 -Para usar la directiva alias primero crearemos otro directorio dentro de public_html para que coja el archivo desde ahi la redirección.
@@ -179,6 +179,31 @@
 
 <img width="697" height="153" alt="imagen" src="https://github.com/user-attachments/assets/1edc695e-c9a5-46ec-9ba3-b19c614cc5a2" />
 
+---
+
+## 10) ¿Para qué sirve la directiva Options y dónde aparece. Comprueba si apache indexa los directorios. Si es así, ¿cómo lo desactivamos?
+
+- Options controla qué características están habilitadas dentro de un contexto <Directory>, <Location>, <VirtualHost> o en un .htaccess. Algunos valores habituales:
+
+- Indexes → permite que Apache genere listados de directorio (directory listing) cuando no hay un index.html/index.php.
+
+- FollowSymLinks → permite seguir enlaces simbólicos.
+
+- SymLinksIfOwnerMatch → like FollowSymLinks pero con restricción de propietario.
+
+- Includes → permite Server Side Includes (SSI).
+
+- ExecCGI → permite ejecutar CGI.
+
+ -None → desactiva todas las opciones.
+
+- Para comprobar si Apache esta indexando solo hacemos un curl a algunas de las paginas que tenemos.
+
+<img width="764" height="228" alt="imagen" src="https://github.com/user-attachments/assets/e91eb897-b177-4621-bd21-a2f6ace217d8" />
+
+- Como podemos ver ahora mismo apache no esta indexando.
+
+<img width="764" height="228" alt="imagen" src="https://github.com/user-attachments/assets/148fc82a-d161-4fa4-904e-1150f9ab8514" />
 
 
 
