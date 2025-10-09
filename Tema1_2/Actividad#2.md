@@ -131,6 +131,39 @@
 
 <img width="911" height="222" alt="imagen" src="https://github.com/user-attachments/assets/871acf5f-5606-4e75-a309-29e6e2336392" />
 
+--- 
+
+## 7) Es posible redireccionar tan solo una página en lugar de toda la carpeta. Pruébalo.
+
+
+---
+
+## 8) Usa la directiva userdir
+
+- El primer paso para ello es activar el modulo userdir.
+
+<img width="803" height="185" alt="imagen" src="https://github.com/user-attachments/assets/95fdbf8d-7e36-490e-8b7c-e4b8a8a7d945" />
+
+-Crearemos un directorio public_html en nuestro usuario.
+
+<img width="739" height="156" alt="imagen" src="https://github.com/user-attachments/assets/ff973ebb-a08b-44c5-8b58-cb2d06a7a79b" />
+
+- Crearemos algunos ficheros de prueba
+
+<img width="816" height="578" alt="imagen" src="https://github.com/user-attachments/assets/af133d19-9d90-407c-87b9-450ac288591e" />
+
+<img width="809" height="121" alt="imagen" src="https://github.com/user-attachments/assets/00cd3bf6-3530-48fd-9b77-4b033d05366c" />
+
+<img width="816" height="585" alt="imagen" src="https://github.com/user-attachments/assets/01341fd4-1a13-4b40-8f0c-d61ae31b69da" />
+
+- Configuraremos userdir con esta ruta. Guardamos y reiniciamos apache
+
+<img width="823" height="118" alt="imagen" src="https://github.com/user-attachments/assets/d60f0ba4-6216-4b5e-99b8-10bed1326b0a" />
+
+<img width="661" height="309" alt="imagen" src="https://github.com/user-attachments/assets/3cb349c9-d018-4ff5-baaa-cea7c00b5259" />
+
+- Ahora en el htacces añadieremos la pagian.
+
 
 
 
