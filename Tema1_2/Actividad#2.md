@@ -125,6 +125,14 @@
 
 <img width="711" height="223" alt="imagen" src="https://github.com/user-attachments/assets/8c8b66f0-afef-4cc6-b5b2-980b07af1b5c" />
 
+- Ponemos la url de prueba.intranet y veremos como nos redirecciona a prueba2
+
+<img width="1006" height="225" alt="imagen" src="https://github.com/user-attachments/assets/18cb2dc2-d12f-44a3-b125-53da33aa9703" />
+
+<img width="911" height="222" alt="imagen" src="https://github.com/user-attachments/assets/871acf5f-5606-4e75-a309-29e6e2336392" />
+
+
+
 
 
 
