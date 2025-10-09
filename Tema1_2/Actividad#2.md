@@ -156,6 +156,33 @@
 
 <img width="753" height="170" alt="imagen" src="https://github.com/user-attachments/assets/7d8241bb-296a-497c-8f75-dec6daa47f7a" />
 
+---
+
+## 8) Usa la directiva alias para redireccionar a una carpeta dentro del directorio de usuario.
+
+
+-Para usar la directiva alias primero crearemos otro directorio dentro de public_html para que coja el archivo desde ahi la redirección.
+
+<img width="733" height="105" alt="imagen" src="https://github.com/user-attachments/assets/a70e73a0-8444-4e24-b29f-dc3dec8d164b" />
+
+- Ahora configuraremos el alias dentro de userdif.conf
+
+<img width="767" height="91" alt="imagen" src="https://github.com/user-attachments/assets/ca19caac-9a73-4c70-b9f2-c5b0fad4d262" />
+
+<img width="666" height="318" alt="imagen" src="https://github.com/user-attachments/assets/77ef7a7c-21a9-4909-879f-dda669073325" />
+
+- Recatgamos el servicio de apache2.
+
+  <img width="736" height="299" alt="imagen" src="https://github.com/user-attachments/assets/98485238-7464-4a2f-ad88-755c6a636cfe" />
+
+- Probamos el alias.
+
+<img width="697" height="153" alt="imagen" src="https://github.com/user-attachments/assets/1edc695e-c9a5-46ec-9ba3-b19c614cc5a2" />
+
+
+
+
+
 
 
 
