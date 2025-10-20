@@ -135,6 +135,18 @@
 
 ## 7) Es posible redireccionar tan solo una página en lugar de toda la carpeta. Pruébalo.
 
+- Si es posible, para ello nos redijimos a donde tenemos configurado los VirtualHosts.
+<img width="834" height="119" alt="imagen" src="https://github.com/user-attachments/assets/c0c1f88d-f4f9-4513-b79b-2651ebca9f9d" />
+
+- Despues pondremos en el primero VirtualHost un redirect para que vaya direcatamente a la pagina de prueba2. Le indicamos primero la pagina que queremos que omita y depsues la pagina que queremos que se muestre.
+
+<img width="783" height="461" alt="imagen" src="https://github.com/user-attachments/assets/2f44e233-2db2-4227-bb0e-79a78923a55d" />
+
+- Probamos en el navegador con la url del primer sitio web y veremos que se redirige.
+
+<img width="951" height="334" alt="imagen" src="https://github.com/user-attachments/assets/150e5046-ba62-41e4-bdb1-ffa6458509a0" />
+
+<img width="952" height="715" alt="imagen" src="https://github.com/user-attachments/assets/6b2f6946-a77e-4e24-a8f3-97567dbb03b3" />
 
 ---
 
