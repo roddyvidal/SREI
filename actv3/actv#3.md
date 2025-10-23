@@ -8,9 +8,9 @@
 ---
 
 ## 2 Explica qué diferencia existe entre ambos y muestra su equivalencia con la directiva Require:
-<Directory /var/www/example1>
-Order Deny,Allow
-Deny from All
+<Directory /var/www/example1>\n
+Order Deny,Allow\n
+Deny from All\n
 Allow from 192.168.1.100
 </Directory>
 
@@ -26,7 +26,7 @@ Allow from 192.168.1.100
 
 - El primeer bloque con la directiva **Require** quedaria asi:
 <Directory /var/www/example1>
-Require 192.168.1.100
+Require ip 192.168.1.100
 </Directory>
 
 - EL segundo bloque:
@@ -36,7 +36,7 @@ Require all denied
 
 ---
 
-## 3 Para di1
+## 3 Para dir1
 - A) Permite el acceso de las peticiones provenientes de 10.3.0.100
 
 - B) Permite el acceso desde "marisma.intranet"
