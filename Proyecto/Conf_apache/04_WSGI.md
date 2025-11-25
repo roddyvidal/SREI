@@ -1,4 +1,4 @@
-
+# Implatancio de python con apache
 ## ¿Qué es WSGI?
 
 **WSGI** es una interfaz que actua como puente entre el servidor web y la aplicación (escrita en python), permitiendo que ambos se intercambien solicitudes y respuestas de manera eficiente.
