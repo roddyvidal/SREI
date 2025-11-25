@@ -1,4 +1,4 @@
-# 🛠️ Despliegue de Infraestructura Web: Intranet Corporativa
+#  Despliegue de Infraestructura Web: Intranet Corporativa
 
 ![Apache](https://img.shields.io/badge/Server-Apache-red)
 ![Nginx](https://img.shields.io/badge/Server-Nginx-green)
@@ -8,7 +8,7 @@
 
 Este repositorio documenta el diseño, implementación y configuración de un servidor web híbrido para la gestión de servicios internos de un instituto. El proyecto abarca desde la virtualización ligera hasta el despliegue de aplicaciones heterogéneas (PHP/WordPress y Python/Flask).
 
-## 📋 Tabla de Contenidos
+## Tabla de Contenidos
 1. [Arquitectura del Proyecto](#-arquitectura-del-proyecto)
 2. [Servicios Implementados](#-servicios-implementados)
 3. [Estructura de la Documentación](#-estructura-de-la-documentación)
@@ -17,7 +17,7 @@ Este repositorio documenta el diseño, implementación y configuración de un se
 
 ---
 
-## 🏗 Arquitectura del Proyecto
+## Arquitectura del Proyecto
 
 Se ha optado por una virtualización basada en contenedores **LXC (Linux Containers)** sobre Proxmox, utilizando una imagen **Debian 12 (Bookworm) con stack LAMP** pre-optimizado.
 
