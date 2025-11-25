@@ -9,9 +9,9 @@
 Este repositorio documenta el diseño, implementación y configuración de un servidor web híbrido para la gestión de servicios internos de un instituto. El proyecto abarca desde la virtualización ligera hasta el despliegue de aplicaciones heterogéneas (PHP/WordPress y Python/Flask).
 
 ## 📋 Tabla de Contenidos
-1. [Arquitectura del Proyecto](https://github.com/1dd0Rv/SREI/blob/server_web/Proyecto/01_LXC%20con%20LAMP.md)
-2. [Servicios Implementados](https://github.com/1dd0Rv/SREI/blob/server_web/Proyecto/02_Pasos%20iniciales.md)
-3. [Estructura de la Documentación](https://github.com/1dd0Rv/SREI/blob/server_web/Proyecto/03_Configuraci%C3%B3n%20de%20Wordpress..md)
+1. [Arquitectura del Proyecto](#-arquitectura-del-proyecto)
+2. [Servicios Implementados](#-servicios-implementados)
+3. [Estructura de la Documentación](#-estructura-de-la-documentación)
 4. [Requisitos Previos](#-requisitos-previos)
 5. [Instalación y Despliegue](#-instalación-y-despliegue)
 
@@ -49,12 +49,12 @@ El proyecto cumple con los siguientes requerimientos técnicos:
 
 ## Estructura de la Documentación
 
-El desarrollo paso a paso se encuentra detallado en la carpeta `Conf_apache`. Haz clic en los enlaces para ver el procedimiento técnico:
+El desarrollo paso a paso se encuentra detallado en la carpeta `Proyecto`. Haz clic en los enlaces para ver el procedimiento técnico:
 
-* [**01. Infraestructura Base:**](Conf_apache/01_LXC_con_LAMP.md) Justificación del LXC y configuración inicial de red.
-* [**02. Servidor Web Apache:**](Conf_apache/02_Pasos_iniciales.md) Configuración de Virtual Hosts y DNS local.
-* [**03. Despliegue CMS:**](Conf_apache/03_Configuracion_de_Wordpress.md) Instalación y securización de WordPress.
-* [**04. Aplicación Python:**](Conf_apache/04_WSGI.md) Configuración de `mod_wsgi`, entorno virtual y despliegue de app Flask con autenticación.
+* [**01. Infraestructura Base:**](https://github.com/1dd0Rv/SREI/blob/server_web/Proyecto/01_LXC%20con%20LAMP.md) Justificación del LXC y configuración inicial de red.
+* [**02. Servidor Web Apache:**]([Conf_apache/02_Pasos_iniciales.md](https://github.com/1dd0Rv/SREI/blob/server_web/Proyecto/02_Pasos%20iniciales.md)) Configuración de Virtual Hosts y DNS local.
+* [**03. Despliegue CMS:**]([Conf_apache/03_Configuracion_de_Wordpress.md](https://github.com/1dd0Rv/SREI/blob/server_web/Proyecto/03_Configuraci%C3%B3n%20de%20Wordpress..md)) Instalación y securización de WordPress.
+* [**04. Aplicación Python:**]([Conf_apache/04_WSGI.md](https://github.com/1dd0Rv/SREI/blob/server_web/Proyecto/04_WSGI.md)) Configuración de `mod_wsgi`, entorno virtual y despliegue de app Flask con autenticación.
 * [**05. Monitorización y Nginx:**](Conf_apache/05_AWStats_Nginx.md) Configuración de estadísticas y segundo servidor web.
 
 ---
