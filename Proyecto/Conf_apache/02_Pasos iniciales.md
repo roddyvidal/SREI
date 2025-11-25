@@ -1,4 +1,4 @@
-# COnfiguraciones iniciales
+# Configuraciones iniciales
 
 Para empezar debemos modificar el archivo */etc/hosts* con la ip de contenedor  y poner los dos dominios que nos piden (**centro.intranet** y **departamentos.centro.intranet**)
 
