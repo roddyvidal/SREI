@@ -1,8 +1,0 @@
-## ¿Qué es WSGI?
-
-**WSGI** es una interfaz que actua como puente entre el servidor web y la aplicación (escrita en python), permitiendo que ambos se intercambien solicitudes y respuestas de manera eficiente.
-Necesitamos el módulo que conecta **Apache** con **Python** (`mod_sgi`) y la herraminenta para crear entornos virtuales aislados.
-
-Para instalar el módulo **WSGI** necesitamos bajar una libreria de apache y los entornos virtuales de python, para ello usarmeos el siguiente comando.
-
-
