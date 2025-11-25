@@ -1,6 +1,8 @@
+![Linux](https://img.shields.io/badge/OS-Debian-A81D33)
 ![Apache](https://img.shields.io/badge/Server-Apache-red)
-![PHP](https://img.shields.io/badge/PHP-8.2-purple)
 ![MySQL](https://img.shields.io/badge/Database-MySQL-4479A1)
+![PHP](https://img.shields.io/badge/PHP-8.2-purple)
+
 
 
 ## Actividades 1º Trimestre
