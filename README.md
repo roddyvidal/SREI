@@ -9,9 +9,9 @@
 Este repositorio documenta el diseño, implementación y configuración de un servidor web híbrido para la gestión de servicios internos de un instituto. El proyecto abarca desde la virtualización ligera hasta el despliegue de aplicaciones heterogéneas (PHP/WordPress y Python/Flask).
 
 ## 📋 Tabla de Contenidos
-1. [Arquitectura del Proyecto](#-arquitectura-del-proyecto)
-2. [Servicios Implementados](#-servicios-implementados)
-3. [Estructura de la Documentación](#-estructura-de-la-documentación)
+1. [Arquitectura del Proyecto](https://github.com/1dd0Rv/SREI/blob/server_web/Proyecto/01_LXC%20con%20LAMP.md)
+2. [Servicios Implementados](https://github.com/1dd0Rv/SREI/blob/server_web/Proyecto/02_Pasos%20iniciales.md)
+3. [Estructura de la Documentación](https://github.com/1dd0Rv/SREI/blob/server_web/Proyecto/03_Configuraci%C3%B3n%20de%20Wordpress..md)
 4. [Requisitos Previos](#-requisitos-previos)
 5. [Instalación y Despliegue](#-instalación-y-despliegue)
 
