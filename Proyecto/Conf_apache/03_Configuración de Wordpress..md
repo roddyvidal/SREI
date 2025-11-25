@@ -1,4 +1,4 @@
-
+# Instalacion y configuracion de wordpress
 Vamos a configurar el primer **VirtualHost**, pero para ello tenemos que instalar Wordpress.
 Iremos al directorio */var/www* y lo descargaremos aqui para tenerlo todo mas organizado.
 
