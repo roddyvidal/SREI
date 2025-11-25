@@ -56,9 +56,9 @@ Para este paso voy a reutilizar código que tengo del modulo de python, solo nec
   <img width="930" height="321" alt="image" src="https://github.com/user-attachments/assets/133a4dd8-1f97-4bba-b202-afb09d350dba" />
 
 - Ahora solo queda asignar permisos y activar el sitio web
-  1. Damos propiedad al usuario de apache `www-data`
-  2. Activamos `departamentos.conf`
-  3. Recargamos apache
+ 1. Damos propiedad al usuario de apache `www-data`
+2. Activamos `departamentos.conf`
+3. Recargamos apache
 
   <img width="923" height="280" alt="image" src="https://github.com/user-attachments/assets/e1839ad3-84db-46f2-81fa-1353e1103407" />
 
