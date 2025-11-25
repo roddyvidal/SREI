@@ -34,6 +34,9 @@ Para este paso voy a reutilizar código que tengo del modulo de python, solo nec
 
   <img width="1008" height="128" alt="image" src="https://github.com/user-attachments/assets/d06aa281-6b10-455b-8e08-86cade6337de" />
 
+---
+
+## Configuración WSGI
 - Con **main.py** en `**/departamentos` vamos a configurar el archvio **WSGI** para que apache sepa como usar python.
   Antes de configurar el archivo vamos a ver que configuracion tenemos en el `venv` para no equivocarnos en la ruta que vamos a poner en el archivo app.wsgi. Ejecutamos el comando `ls /var/www/departamentos/venv/lib/` y
   vemos que tenemos python3.11
