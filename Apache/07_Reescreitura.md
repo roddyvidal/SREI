@@ -8,14 +8,6 @@ además de implementar capas de seguridad básicas contra el robo de ancho de ba
 A continuación, presento un archivo .htaccess consolidado. 
 Este fichero integra la reescritura de URLs para la aplicación matemática, la solución al ejercicio de búsqueda y la protección de activos.
 
-# ----------------------------------------------------------------------
-# Configuración Base y Seguridad
-# ----------------------------------------------------------------------
-# Evita que se listen los directorios si no hay index
-Options -Indexes 
-# Necesario para que mod_rewrite siga enlaces simbólicos (requisito de seguridad/funcionamiento)
-Options +FollowSymLinks
-
 <IfModule mod_rewrite.c>
     RewriteEngine On
     RewriteBase /
