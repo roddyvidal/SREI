@@ -50,3 +50,24 @@ Este fichero integra la reescritura de URLs para la aplicación matemática, la 
     RewriteRule ^(.+)\.do$ $1.html [R=301,NC,L]
 
 </IfModule>
+
+---
+
+## Pasos en servidor web
+
+- `nano /etc/apache2/sites-available/000-default.conf` $\rightarrow$ Configuramos el **VirtualHost** con `AllowOverride All` para que .htaccees tome el control.
+
+    <img width="629" height="219" alt="image" src="https://github.com/user-attachments/assets/55f562f2-172f-4783-b331-f15300a887fc" />
+
+- Reiniciamos apache con `systemctl restart apache2`.  Ahora crearemos 2 archivos php sencillos para la pagina.
+
+  <img width="794" height="204" alt="image" src="https://github.com/user-attachments/assets/c498ec29-5418-4a59-8bcf-a429595f910c" />
+  <img width="794" height="204" alt="image" src="https://github.com/user-attachments/assets/4566eb90-eb85-4a07-aa8a-8ec76db7e982" />
+  <img width="796" height="133" alt="image" src="https://github.com/user-attachments/assets/7c18773b-a6cb-4af8-85f0-ad12a2241816" />
+
+- Ahora configuramos el .htaccess
+
+<img width="811" height="398" alt="image" src="https://github.com/user-attachments/assets/a8cb593b-b955-4e32-8b60-d77e6de7fd9a" />
+
+
+- Probamos en el cliente debian 
