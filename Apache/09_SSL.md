@@ -14,7 +14,8 @@ Nos saldra un output como el de la imagen el cual rellenaremos.
 
 Ahora tenemos que configurar el **VirtualHost** porque el tráfico de la pagina ya no ira por el puerto 80 si no por el puerto 443.
   
-  <img width="896" height="156" alt="image" src="https://github.com/user-attachments/assets/e2dc41e4-5f14-4606-8b13-131c821183ba" />
+  <img width="993" height="295" alt="image" src="https://github.com/user-attachments/assets/19ee69c0-060b-4e05-9230-6563fc3192df" />
+
 
 Añadimos estos apartados para que funione el SSL.
 
