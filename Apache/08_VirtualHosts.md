@@ -46,6 +46,14 @@
 
   <img width="746" height="240" alt="image" src="https://github.com/user-attachments/assets/af16f1b4-7be6-4931-a2b8-fc9bfcdde155" />
 
+- Y podemos ver que las dos paginas las podemos visualizar.
+
+  <img width="1126" height="307" alt="image" src="https://github.com/user-attachments/assets/0fe0f3d1-7382-4616-be45-1c0507972c2a" />
+
+  <img width="1125" height="297" alt="image" src="https://github.com/user-attachments/assets/a826ceee-5045-4939-8019-ab75fd001342" />
+
+
+
 
 
 
