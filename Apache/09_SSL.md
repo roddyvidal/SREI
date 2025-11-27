@@ -1,4 +1,6 @@
-## Como crear un SSL autofirmado.
+# SSL/TLS Autofirmado vs SSL con Let´s encrypt
+
+## 1. Como crear un SSL autofirmado.
 
 Para crear un SSL autofirmado primero tenemos que poner este comando `sudo openssl req -x509 -nodes -days 365 -newkey rsa:2048 -keyout /etc/ssl/private/apache-selfsigned.key -out /etc/ssl/certs/apache-selfsigned.crt`. 
 Nos saldra un output como el de la imagen el cual rellenaremos.
@@ -23,7 +25,23 @@ Añadimos estos apartados para que funione el SSL.
 
 - Habilitamos el virtual host que acabamos de configurar y el modulo ssl de apache. 
 
-  <img width="889" height="270" alt="image" src="https://github.com/user-attachments/assets/ea0eff33-4c6a-4755-ad64-25dc011d2cd4" />
+  <img width="570" height="181" alt="image" src="https://github.com/user-attachments/assets/4131396c-fea0-43c4-9b96-35dbb61f5335" />
+
+- Para que apache pueda redireccionar el tráfico `HTTP` hacia `HTTPS` tenemos que activar el Rewrite.
+
+  <img width="603" height="180" alt="image" src="https://github.com/user-attachments/assets/09c0331e-a66c-48c2-8aca-b6cdac543f85" />
+
+- Como podemos ver la pagina no es segura porque google detecta que es un SSL autofirmado.
+
+  <img width="1918" height="1045" alt="image" src="https://github.com/user-attachments/assets/c7e4a163-015b-41f2-b3d8-9480da151c64" />
+
+
+## 2. SSL con Let´s Encrypt.
+
+
+
+
+
 
 
   
