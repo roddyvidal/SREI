@@ -95,9 +95,10 @@ Para este paso voy a reutilizar código que tengo del modulo de python, solo nec
 
   <img width="749" height="193" alt="image" src="https://github.com/user-attachments/assets/08170061-d736-468e-996c-b4da2b0c4ff9" />
 
-- Si proporcionamos las credenciales validas nos dara de respuesta `ok`
+- En nuestro host ponemos la direccion de nuestro dominio y veremos que tendremos que poner contraseña para poder acceder al sitio
 
-  <img width="928" height="65" alt="image" src="https://github.com/user-attachments/assets/d6b1c6d5-7c38-4fef-a42c-2ebbf8572a9b" />
+  <img width="1280" height="803" alt="image" src="https://github.com/user-attachments/assets/8e51d7da-36a2-4920-bf8b-d623c6db33d5" />
+
 
 
 
