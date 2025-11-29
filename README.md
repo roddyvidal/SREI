@@ -22,7 +22,7 @@ Este repositorio documenta el diseño, implementación y configuración de un se
 Se ha optado por una virtualización basada en contenedores **LXC (Linux Containers)** sobre Proxmox, utilizando una imagen **Debian 12 (Bookworm) con stack LAMP** pre-optimizado.
 
 ### ¿Por qué LXC?
-A diferencia de una máquina virtual tradicional, el contenedor LXC comparte el kernel del host, lo que permite un despliegue con **overhead mínimo** de RAM y CPU, ideal para entornos de producción que requieren alta densidad y eficiencia.
+A diferencia de una máquina virtual tradicional, el contenedor LXC comparte el kernel del host, lo que permite un despliegue con **overhead mínimo** de RAM y CPU, ideal para entornos de producción.
 
 ### Diagrama de Red y Puertos
 La infraestructura sirve múltiples dominios mediante **Virtual Hosts** y Proxy Inverso, distribuidos en dos servidores web concurrentes:
