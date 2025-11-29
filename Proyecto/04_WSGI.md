@@ -56,11 +56,13 @@ Para este paso voy a reutilizar código que tengo del modulo de python, solo nec
   <img width="930" height="321" alt="image" src="https://github.com/user-attachments/assets/133a4dd8-1f97-4bba-b202-afb09d350dba" />
 
 - Ahora solo queda asignar permisos y activar el sitio web
- 1. Damos propiedad al usuario de apache `www-data`
+1. Damos propiedad al usuario de apache `www-data`
 2. Activamos `departamentos.conf`
 3. Recargamos apache
 
   <img width="923" height="280" alt="image" src="https://github.com/user-attachments/assets/e1839ad3-84db-46f2-81fa-1353e1103407" />
+
+---
 
 ## Comprobación en un maquina cliente.
 
@@ -72,6 +74,35 @@ Para este paso voy a reutilizar código que tengo del modulo de python, solo nec
 
   <img width="1276" height="684" alt="image" src="https://github.com/user-attachments/assets/3ff79914-16bc-4d4c-b9f7-c5c4d0275b3e" />
 
+--- 
+
+## Proteccion de seguridad. 
+
+- Vamos a proteger el sitio web con una contraseña y para ello tenemos que crear el archivo de contraseñas. Usaremos `htpasswd` y pondremos una contraseña.
+
+ <img width="797" height="111" alt="image" src="https://github.com/user-attachments/assets/58ee643a-8608-4085-b93a-3ef479874808" />
+
+- Una vez puesta la contraseña iremos al archivo `VirtualHost` y pondremos esto en la configuración. Debemos quitar `Require all granted`
+
+  <img width="792" height="416" alt="image" src="https://github.com/user-attachments/assets/f5c8118d-5865-4205-9270-cb05049c956c" />
+
+
+- Volvemos a activar el domimio y restablecemos apache para que funcione
+
+  <img width="689" height="124" alt="image" src="https://github.com/user-attachments/assets/160f1e2f-4f77-46cf-a29f-7fa9f811eeb9" />
+
+- Cuando hacemos un curl a la pagina podemos ver el en encabezado que pone `HTTP/1.1 401 Unauthorized` por que no hemos puesto las credenciales
+
+  <img width="749" height="193" alt="image" src="https://github.com/user-attachments/assets/08170061-d736-468e-996c-b4da2b0c4ff9" />
+
+- Si proporcionamos las credenciales validas nos dara de respuesta `ok`
+
+  <img width="928" height="65" alt="image" src="https://github.com/user-attachments/assets/d6b1c6d5-7c38-4fef-a42c-2ebbf8572a9b" />
+
+
+
+
+  
 
 
 
