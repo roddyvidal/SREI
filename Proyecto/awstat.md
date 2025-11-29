@@ -15,6 +15,8 @@ Vamos a instalar awstat con `apt install awstas`. Una vez instalado copiaremos e
 
     <img width="744" height="144" alt="image" src="https://github.com/user-attachments/assets/b05248e5-2b20-4b2c-a7b3-6d16a6d37308" />
 
-  - Para que aparezca algo forzaremos el primer log
+  - Ponemos esta ruta en el navegador de nuestro host para que aparezca `awstats` $\rightarrow$
+
+    <img width="1283" height="806" alt="image" src="https://github.com/user-attachments/assets/7622ef12-3218-4e67-b755-65edc6a33577" />
 
 
