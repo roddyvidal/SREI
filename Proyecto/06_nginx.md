@@ -40,6 +40,8 @@ rm /etc/nginx/sites-enabled/default # Opcional, para evitar conflictos
 systemctl restart nginx
 systemctl restart php8.2-fpm`
 
+## Prueba en el host
+
 - Ponemos el dominio nuevo en `/etc/hosts`
 
   <img width="920" height="455" alt="image" src="https://github.com/user-attachments/assets/ca2c325b-9f38-4778-835f-5a67d15f1a86" />
