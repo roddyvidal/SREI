@@ -7,9 +7,12 @@ Para empezar debemos modificar el archivo */etc/hosts* con la ip de contenedor  
 <img width="761" height="322" alt="image" src="https://github.com/user-attachments/assets/fa5c92c3-905a-4d23-a8f6-147d3a79ea51" />
 
 
-- Modificamos el archivo */etc/hosts* con `nano /etc/hosts`.
+- Modificamos el archivo */etc/hosts* con `nano /etc/hosts`. Esto lo haremos en nuestro servidor por si queremos hacer comprobaciones in site y en una maquina cliente o host.
 
 <img width="770" height="269" alt="image" src="https://github.com/user-attachments/assets/526f1888-aa24-427b-82a9-746ed4a178e7" />
+
+<img width="745" height="436" alt="image" src="https://github.com/user-attachments/assets/e1edd95a-046b-4f65-b3ef-7d11db8b1a40" />
+
 
 
 - Una vez añadidos los dominios vamos a asegurarnos que los módulos necesarios están activos.
