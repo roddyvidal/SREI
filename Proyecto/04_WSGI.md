@@ -64,7 +64,7 @@ Para este paso voy a reutilizar código que tengo del modulo de python, solo nec
 
 ---
 
-## Comprobación en un maquina cliente.
+## Comprobación en un Host.
 
 - Miramos el archivo `/etc/hosts` para comprobar que nuestra máquina cliente podrá ver la pagina que hemos creado poniendo el "dominio del VirtualHost"
 
