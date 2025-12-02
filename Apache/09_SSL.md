@@ -38,6 +38,46 @@ Añadimos estos apartados para que funione el SSL.
 
 ## 2. SSL con Let´s Encrypt.
 
+- En nuestra instancia debemos actualizar el apartado de seguridad y añadir los puertos de HTTP y HTTPS (80, 443 respectivamente).
+
+  <img width="1658" height="277" alt="image" src="https://github.com/user-attachments/assets/be167ca7-3f11-40c9-943d-491d84c2a5ec" />
+
+- En la pagina No-IP escogemos un DNS gratuito y le ponemos la ip de nuestra instancia en AWS. LE hacemos ping posteriormente para ver si esta funcionando.
+
+  <img width="1520" height="492" alt="image" src="https://github.com/user-attachments/assets/16377ee7-0b56-42d2-b2ba-5255a2314680" />
+
+- Una vez que ya hemos conseguido el dominio nos decargaremos certbot con los siguientes comandos.
+
+  <img width="1041" height="163" alt="image" src="https://github.com/user-attachments/assets/5bcad358-f856-4358-8017-3737ecb57a47" />
+
+- Actualizamos el `VirtualHost` con nuestro dominio en `ServerName`.
+
+  <img width="976" height="407" alt="image" src="https://github.com/user-attachments/assets/413d326a-27a2-4901-854f-860a8ba3bf46" />
+
+- Reinciamos apache.
+
+  <img width="874" height="155" alt="image" src="https://github.com/user-attachments/assets/0ade7f69-120a-4937-9854-4c04ab827873" />
+
+- Vamos a habilitar cerbot con `sudo cerbot --apache`.
+
+  <img width="1005" height="579" alt="image" src="https://github.com/user-attachments/assets/70e0b8f8-c756-47b8-adef-6a5124538e4b" />
+  Como me ha dado un error un poco raro le pasare todo lo que necesita en la misma linea
+
+  <img width="1257" height="523" alt="image" src="https://github.com/user-attachments/assets/39a2de4c-4898-4895-9046-2644dca6d962" />
+
+- Y ya tenemos HTTPS con lets encrypt.
+
+  <img width="1915" height="780" alt="image" src="https://github.com/user-attachments/assets/fc137053-ce8f-446b-bd4f-1bdacca6bddc" />
+
+
+  
+
+
+
+
+
+
+
 
 
 
