@@ -1,4 +1,4 @@
-# SSL/TLS Autofirmado vs SSL con Let´s encrypt
+# SSL Autofirmado vs SSL con Let´s encrypt
 
 ## 1. Como crear un SSL autofirmado.
 
@@ -37,6 +37,8 @@ Añadimos estos apartados para que funione el SSL.
 
 
 ## 2. SSL con Let´s Encrypt.
+
+
 
 
 
