@@ -11,11 +11,11 @@ Vamos a instalar awstat con `apt install awstas`. Una vez instalado copiaremos e
 
   <img width="751" height="170" alt="image" src="https://github.com/user-attachments/assets/23535a1d-7e4f-4415-8e20-8c082d5f47d1" />
 
-  - Activamos `CGI` y la conf de `awstats` y recargamos apache.
+- Activamos `CGI` y la conf de `awstats` y recargamos apache.
 
     <img width="744" height="144" alt="image" src="https://github.com/user-attachments/assets/b05248e5-2b20-4b2c-a7b3-6d16a6d37308" />
 
-  - Ponemos esta ruta en el navegador de nuestro host para que aparezca `awstats` $\rightarrow$
+- Ponemos esta ruta en el navegador de nuestro host para que aparezca `awstats` $\rightarrow$
 
     <img width="1283" height="806" alt="image" src="https://github.com/user-attachments/assets/7622ef12-3218-4e67-b755-65edc6a33577" />
 
