@@ -23,18 +23,6 @@
  <img width="713" height="168" alt="image" src="https://github.com/user-attachments/assets/a2a98eb8-3c13-4823-85a4-7bfbd4a6412c" />
  
 
-- Una vez terminada la instalación de apache2 tendremos que configurar el cortafuegos para permitir el tráfico HTTP. Para ello pondremos esto comandos.
-
-![alt text](image-1.png)
-
-- Para solo permitir el puerto 80 podremos estos comandos.
-
-![alt text](image-3.png)
-
-- Ponemos nuestra IP en el navegador por el puerto 80 y si nos sale la página principal de apache es que lo tenemos todo instalado.
-
-![alt text](image-4.png)
-
 ---
 
 ## Instalación MySQL en ubuntu.
@@ -107,5 +95,6 @@
 - Y podemos ver que hemos hecho las configuraciones bien.
 
  <img width="1145" height="236" alt="image" src="https://github.com/user-attachments/assets/5ca6575e-a4f8-46d2-b977-37b71be1e4e2" />
+
 
 
