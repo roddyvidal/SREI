@@ -19,4 +19,5 @@ Vamos a instalar awstat con `apt install awstas`. Una vez instalado copiaremos e
 
     <img width="1283" height="806" alt="image" src="https://github.com/user-attachments/assets/7622ef12-3218-4e67-b755-65edc6a33577" />
 
+Pulsa este [link](https://github.com/1dd0Rv/SREI/blob/server_web/Proyecto/06_nginx.md) para ir a la configuracion de **NGINX**
 
