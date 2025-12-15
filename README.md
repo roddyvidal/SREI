@@ -55,7 +55,7 @@ El desarrollo paso a paso se encuentra detallado en la carpeta `Proyecto`. Haz c
 * [**02. Servidor Web Apache:**](https://github.com/1dd0Rv/SREI/blob/server_web/Proyecto/02_Pasos%20iniciales.md) Configuración de Virtual Hosts y DNS local.
 * [**03. Despliegue CMS:**](https://github.com/1dd0Rv/SREI/blob/server_web/Proyecto/03_Configuraci%C3%B3n%20de%20Wordpress..md) Instalación y securización de WordPress.
 * [**04. Aplicación Python:**](https://github.com/1dd0Rv/SREI/blob/server_web/Proyecto/04_WSGI.md) Configuración de `mod_wsgi`, entorno virtual y despliegue de app Flask con autenticación.
-* [**05. Monitorización y Nginx:**](https://github.com/1dd0Rv/SREI/blob/server_web/Proyecto/05_awstats.md) Configuración de estadísticas(05_awstas.md) y segundo servidor web(06_nginx.md).
+* [**05. Monitorización y Nginx:**](https://github.com/1dd0Rv/SREI/blob/server_web/Proyecto/05_awstat.md) Configuración de estadísticas(05_awstas.md) y segundo servidor web(06_nginx.md).
 
 ---
 
