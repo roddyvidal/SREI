@@ -16,9 +16,21 @@ Para este proyecto necesitaremos crear una **VPC** con dos subredes públicas y 
 
   <img width="1916" height="925" alt="image" src="https://github.com/user-attachments/assets/24f624e9-40e6-463a-8b8a-724fb6e25847" />
 
+- Le daremos a **Customize subnets CIDR block" para crear a nuestro gusto las subredes publicas y privadas que vamos a usar
+
+  <<img width="447" height="480" alt="image" src="https://github.com/user-attachments/assets/6811a321-a712-44d5-a51e-ef6791c4e2d2" />
+
+- Activamos la opción para darle ip pública automaticamente.
+
+  <img width="1918" height="706" alt="image" src="https://github.com/user-attachments/assets/0f65ee2d-d70d-4a1b-b04c-70c251dafffb" />
+
 - Creamos una instancia EC2 con debian.
 
     <img width="1913" height="585" alt="image" src="https://github.com/user-attachments/assets/bd48413d-33f9-453d-ba91-68bb9daa73bc" />
+
+- Una vez creada crearemos un nuevo frupo de seguridad con las siguientes reglas.
+
+  <img width="1908" height="861" alt="image" src="https://github.com/user-attachments/assets/541649b9-b767-4075-9f4a-9d1709229cc8" />
 
 - Descargamos la clave PEM para entrar por SSH a la máquina debian desde nuestro PC.
 
