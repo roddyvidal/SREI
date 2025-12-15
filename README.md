@@ -9,6 +9,10 @@
 
 En esta carpeta se enceuntran las actividades resueltas sobre el servidor web [Apache](https://github.com/1dd0Rv/SREI/tree/main/Apache) ✅
 
-## Proyecto 1º Trimestre
+## Proyecto 1º Trimestre Apache
 
-- ✅[Servidores Web](https://github.com/1dd0Rv/SREI/tree/server_web) 
+- ✅[Servidores Web](https://github.com/1dd0Rv/SREI/tree/server_web)
+
+## Proyecto 2º Trimestre | AWS
+
+- [Wordpress en AWS]()
