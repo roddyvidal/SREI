@@ -48,8 +48,8 @@ La documentación detallada paso a paso se encuentra organizada en los siguiente
 
 ```text
 .
-├── README.md                      # Documentación principal del proyecto
-└── docs/                          # Guías detalladas de implementación
+├── README.md                     # Documentación principal del proyecto
+└── Proyecto/                     # Guías detalladas de implementación
     ├── 01_VPC_EC2.md             # Creación de Red, Subredes e Instancia
     ├── 02_LAMP.md                # Instalación y configuración de Apache y PHP
     ├── 03_Base_Datos.md          # Despliegue de RDS y conexión segura
