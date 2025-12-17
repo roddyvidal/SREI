@@ -89,7 +89,7 @@ Despliegue de una base de datos MySQL en RDS. Se establece la conexión segura d
 Implementación de Amazon EFS. Configuración de las reglas de seguridad (Security Groups) de entrada y salida para permitir el montaje NFS (puerto 2049) en la instancia Linux.
 [04_EFS](https://github.com/1dd0Rv/SREI/blob/wdpss_aws/Proyecto%20/04_EFS.md)
 
-### Instalación de Wordpressç
+### Instalación de Wordpress
 
 Descarga y configuración del CMS conectándolo al Endpoint de la base de datos RDS en lugar de localhost.
 [05_Wordpress](https://github.com/1dd0Rv/SREI/blob/wdpss_aws/Proyecto%20/05_Wordpress.md)
