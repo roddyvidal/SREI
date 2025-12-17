@@ -28,7 +28,20 @@
 
   <img width="1534" height="387" alt="image" src="https://github.com/user-attachments/assets/6e007274-40d2-435e-a806-bc63e76ef092" />
 
-    
+- Una vez creada la base de datos pinchamos en ella y nos llevara a esta ventana donde copiaremos el endpoint e iremos a nuestro debian.
+
+  <img width="1918" height="860" alt="image" src="https://github.com/user-attachments/assets/fe70fb10-6281-46db-a12c-b8380d4fcf57" />
+
+- Entramos con este comando "mysql -h bdwordpress.cu8wnfuwxkyy.us-east-1.rds.amazonaws.com -u admin -p --skip-ssl". Pongo Skip ssl porque me da problemas
+
+  <img width="1107" height="271" alt="image" src="https://github.com/user-attachments/assets/e15d00ec-4f70-4146-adbc-597684d30feb" />
+
+- Creamos el usuario y le damos permisos.
+
+  <img width="899" height="293" alt="image" src="https://github.com/user-attachments/assets/7821943c-17f8-4c71-a9f2-f8fbceb33d32" />
+
+
+
 
 
 
