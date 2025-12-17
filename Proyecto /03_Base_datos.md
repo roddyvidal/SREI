@@ -10,19 +10,23 @@
 
 - Le ponemos un nombre identificativo y una contraseña.
 
-  <img width="1919" height="708" alt="image" src="https://github.com/user-attachments/assets/42b9bb09-e6c9-40a7-a4bd-f555571e95db" />
+  <img width="1571" height="602" alt="image" src="https://github.com/user-attachments/assets/486c67a0-268a-4d2d-8004-6430921df02f" />
 
-- Elegimos la capa para la base de datos.
+- Configuración de la instancia.
 
-  <img width="1919" height="375" alt="image" src="https://github.com/user-attachments/assets/1c5c379f-0976-4557-b39d-078021ba7a63" />
+  <img width="1537" height="378" alt="image" src="https://github.com/user-attachments/assets/5810ed00-9451-4333-a895-7a153c3b8bd1" />
+
+- Almacenamiento.
+
+  <img width="1478" height="310" alt="image" src="https://github.com/user-attachments/assets/87492d10-d206-4337-adf0-0c55b08536d8" />
 
 - En conectividad elegiremos "Conectar a EC" que ya tenemos creada y elegimos la EC2 y lo demas por defecto
 
-  <img width="1916" height="840" alt="image" src="https://github.com/user-attachments/assets/3ca45f15-1865-453d-9350-afe6b09f6895" />
+  <img width="1465" height="684" alt="image" src="https://github.com/user-attachments/assets/3a07a58e-8cc2-4c70-b870-1ea10d1d5778" />
 
   - En coniguracion adicional podrmeos el nombre inicial de "bdWordpress" y y apodremos crear la base de datos
 
-    <img width="1534" height="387" alt="image" src="https://github.com/user-attachments/assets/6e007274-40d2-435e-a806-bc63e76ef092" />
+  <img width="1534" height="387" alt="image" src="https://github.com/user-attachments/assets/6e007274-40d2-435e-a806-bc63e76ef092" />
 
     
 
