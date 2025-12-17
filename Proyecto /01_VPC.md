@@ -32,7 +32,7 @@ Para este proyecto necesitaremos crear una **VPC** con dos subredes públicas y 
 
   <img width="1908" height="823" alt="image" src="https://github.com/user-attachments/assets/2a5196c7-844c-4104-ac39-6266fbac9a3a" />
 
-- Una vez creada crearemos un nuevo frupo de seguridad con las siguientes reglas.
+- Una vez creada crearemos un nuevo grupo de seguridad con las siguientes reglas.
 
   <img width="1908" height="861" alt="image" src="https://github.com/user-attachments/assets/541649b9-b767-4075-9f4a-9d1709229cc8" />
 
