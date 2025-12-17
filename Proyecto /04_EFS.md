@@ -34,6 +34,8 @@
 
   <img width="1123" height="416" alt="image" src="https://github.com/user-attachments/assets/dae2c01b-539c-4d62-88fc-f06fb9153d79" />
 
+  [Siguiente](https://github.com/1dd0Rv/SREI/blob/wdpss_aws/Proyecto%20/05_Wordpress.md)
+
 
   
 
