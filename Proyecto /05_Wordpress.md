@@ -21,4 +21,6 @@ Instalamos Wordpress.
   <img width="1917" height="586" alt="image" src="https://github.com/user-attachments/assets/f3acbdb3-430d-40fa-80d2-41885c7e90e1" />
 
 
+[Siguiente](https://github.com/1dd0Rv/SREI/blob/wdpss_aws/Proyecto%20/06_EFS_WP-content.md)
+
 
