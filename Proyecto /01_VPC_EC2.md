@@ -34,7 +34,7 @@ Para este proyecto necesitaremos crear una **VPC** con dos subredes públicas y 
 
 - Una vez creada crearemos un nuevo grupo de seguridad con las siguientes reglas.
 
-  <img width="1913" height="885" alt="image" src="https://github.com/user-attachments/assets/4f026ce2-1e3f-4933-a7d4-f72911d9abce" />
+  <img width="1715" height="322" alt="image" src="https://github.com/user-attachments/assets/8c0d4b65-ba6c-44b2-a252-a38f5c54de92" />
 
 - Le asignamos el grupo de seguridad que heemos creado a nuestar instancia.
 
