@@ -18,7 +18,7 @@ Instalamos Wordpress.
 
   <img width="752" height="790" alt="image" src="https://github.com/user-attachments/assets/0ac5b1bd-7b04-429d-9aa2-e2eee1ff1ae1" />
 
-  <img width="752" height="790" alt="image" src="https://github.com/user-attachments/assets/5dff8d2b-1058-4e38-9bd9-7de1aec5b97e" />
+  <img width="1917" height="586" alt="image" src="https://github.com/user-attachments/assets/f3acbdb3-430d-40fa-80d2-41885c7e90e1" />
 
 
 
