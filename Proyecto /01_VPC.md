@@ -1,6 +1,6 @@
 ## Creación de VPC´S
 
-Para este proyecto necesitaremos crear una **VPC** con dos subredes públicas y dos subredes pribvadas:
+Para este proyecto necesitaremos crear una **VPC** con dos subredes públicas y dos subredes privadas:
 - Las dos subredes públicas servirán como balanceador de carga futuro
 - Las dos subredes privadas son para proteger la base de datos y no este accesible para los usuarios desde la red
 
@@ -27,6 +27,10 @@ Para este proyecto necesitaremos crear una **VPC** con dos subredes públicas y 
 - Creamos una instancia EC2 con debian.
 
     <img width="1913" height="585" alt="image" src="https://github.com/user-attachments/assets/bd48413d-33f9-453d-ba91-68bb9daa73bc" />
+
+- Al momento de crearla tenemos que ponerle la VPC que hgemos creado anteriormente.
+
+  <img width="1908" height="823" alt="image" src="https://github.com/user-attachments/assets/2a5196c7-844c-4104-ac39-6266fbac9a3a" />
 
 - Una vez creada crearemos un nuevo frupo de seguridad con las siguientes reglas.
 
