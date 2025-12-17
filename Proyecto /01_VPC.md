@@ -34,7 +34,12 @@ Para este proyecto necesitaremos crear una **VPC** con dos subredes públicas y 
 
 - Una vez creada crearemos un nuevo grupo de seguridad con las siguientes reglas.
 
-  <img width="1908" height="861" alt="image" src="https://github.com/user-attachments/assets/541649b9-b767-4075-9f4a-9d1709229cc8" />
+  <img width="1913" height="885" alt="image" src="https://github.com/user-attachments/assets/4f026ce2-1e3f-4933-a7d4-f72911d9abce" />
+
+- Le asignamos el grupo de seguridad que heemos creado a nuestar instancia.
+
+  <img width="1907" height="777" alt="image" src="https://github.com/user-attachments/assets/85c1a8a9-4d12-4fc6-b69c-7fce43d52e42" />
+
 
 - Descargamos la clave PEM para entrar por SSH a la máquina debian desde nuestro PC.
 
