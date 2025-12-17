@@ -40,6 +40,8 @@
 
   <img width="899" height="293" alt="image" src="https://github.com/user-attachments/assets/7821943c-17f8-4c71-a9f2-f8fbceb33d32" />
 
+    [Siguiente](https://github.com/1dd0Rv/SREI/blob/wdpss_aws/Proyecto%20/04_EFS.md)
+
 
 
 
