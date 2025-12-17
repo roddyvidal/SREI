@@ -46,6 +46,9 @@ Para este proyecto necesitaremos crear una **VPC** con dos subredes públicas y 
   <img width="1825" height="660" alt="image" src="https://github.com/user-attachments/assets/dc80c4bf-4241-4fff-a4d0-a1c8bcc94495" />
 
 
+- [Siguiente](https://github.com/1dd0Rv/SREI/blob/wdpss_aws/Proyecto%20/02_LAMP.md)
+
+
 
 
 
