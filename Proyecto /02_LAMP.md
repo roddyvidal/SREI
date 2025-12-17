@@ -1,4 +1,4 @@
-Una vez creado las instancias necesarias ahora instalaremos la pila LAMP.
+## Una vez creado las instancias necesarias ahora instalaremos la pila LAMP.
 
 ## Apache 
 
