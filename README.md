@@ -66,3 +66,38 @@ La documentación detallada paso a paso se encuentra organizada en los siguiente
     ├── 04_EFS.md                 # Configuración del almacenamiento elástico
     ├── 05_Wordpress.md           # Instalación del CMS y configuración inicial
     └── 06_EFS_WP_Content.md      # Migración de contenido estático a EFS
+ ``` 
+## Fases de despliegue
+
+#### Infraestructura de Red y Cómputo
+
+Creación de la VPC, subredes públicas/privadas y lanzamiento de la instancia EC2 con grupos de seguridad configurados para permitir tráfico SSH (22) y HTTP (80).
+[01_VPC_EC2](https://github.com/1dd0Rv/SREI/blob/wdpss_aws/Proyecto%20/01_VPC_EC2.md)
+
+### Instalacion stack LAMP
+
+Configuración del sistema operativo Debian e instalación de Apache Web Server y PHP con sus librerías necesarias.
+[02_LAMP](https://github.com/1dd0Rv/SREI/blob/wdpss_aws/Proyecto%20/02_LAMP.md)
+
+### Capa de datos RDS
+
+Despliegue de una base de datos MySQL en RDS. Se establece la conexión segura desde la instancia EC2 utilizando el cliente de MySQL/MariaDB.
+[03_Base_Datos](https://github.com/1dd0Rv/SREI/blob/wdpss_aws/Proyecto%20/03_Base_datos.md)
+
+### Capa de Almacenamiento (EFS)
+
+Implementación de Amazon EFS. Configuración de las reglas de seguridad (Security Groups) de entrada y salida para permitir el montaje NFS (puerto 2049) en la instancia Linux.
+[04_EFS](https://github.com/1dd0Rv/SREI/blob/wdpss_aws/Proyecto%20/04_EFS.md)
+
+### Instalación de Wordpressç
+
+Descarga y configuración del CMS conectándolo al Endpoint de la base de datos RDS en lugar de localhost.
+[05_Wordpress](https://github.com/1dd0Rv/SREI/blob/wdpss_aws/Proyecto%20/05_Wordpress.md)
+
+### Desacople de contenido estático
+
+Migración de la carpeta wp-content al volumen EFS. Esto asegura que las imágenes, temas y plugins se almacenen en un disco de red persistente y no en la instancia.
+[06_EFS_WP-Content](https://github.com/1dd0Rv/SREI/blob/wdpss_aws/Proyecto%20/06_EFS_WP-content.md)
+
+
+
